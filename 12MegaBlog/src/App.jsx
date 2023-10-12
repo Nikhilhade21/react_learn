@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Footer, Header } from './components'
 
 import './App.css'
 
@@ -7,7 +8,9 @@ function App() {
 
   return (
     <>
+    
     <h1>BLOG APP WITH APPWRITE </h1>
+    
     </>
   )
 }
